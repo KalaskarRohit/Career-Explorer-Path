@@ -117,7 +117,7 @@ LICENSE                      - MIT
 
 ## ⚙️ Quickstart (Windows)
 1. Clone:
-   git clone https://github.com/vansh070605/Career-Path-Explorer.git
+   git clone (https://github.com/KalaskarRohit/Career-Explorer-Path)
 2. Create & activate venv (PowerShell):
    ```
    python -m venv .venv
